@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 {
   "extends": "./tsconfig.json",
   "exclude": ["node_modules", "test", "dist", "**/*spec.ts"]
 }
+=======
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "test", "dist", "**/*spec.ts"]
+}
+>>>>>>> 3aec553d8b18a812581e94bd8fffffc5a7c18e42
