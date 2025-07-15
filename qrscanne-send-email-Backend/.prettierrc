@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 {
   "singleQuote": true,
   "trailingComma": "all"
-=======
-{
-  "singleQuote": true,
-  "trailingComma": "all"
->>>>>>> 3aec553d8b18a812581e94bd8fffffc5a7c18e42
+
 }
